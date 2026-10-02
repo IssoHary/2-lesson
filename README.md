@@ -1,4 +1,4 @@
-Урок 2, Git, GitHub, commit
+<strong>Урок 2, Git, GitHub, commit</strong>
 
 <strong>Настраиваем Git</strong>
 git config --global user.name "Никнейм"
