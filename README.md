@@ -1,1 +1,1 @@
-This is my first commit
+Урок 2, Git, GitHub, commit
